@@ -49,7 +49,7 @@
 
 // block.setAttribute('class','item_1');
 // block.appendChild(item);
-
+ew
 
 // const text= document.querySelectorAll('.text')
 // console.log(text.previousElementSibling);
